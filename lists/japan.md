@@ -1,5 +1,9 @@
 The Japanese television channels listed in this playlist are broadcast in Japanese for Japanese residents living in Japan, with the exception of NHK WORLD JAPAN.
-
+sudo apt install python3-launchpadlib -y
+sudo apt install software-properties-common -y
+sudo add-apt-repository ppa:kelebek333/mint-tools
+sudo apt-get update
+sudo apt install hypnotix -y
 <h1>日本/Japan</h1>
 
 <h2> 地上波/Terrestrial </h2>
